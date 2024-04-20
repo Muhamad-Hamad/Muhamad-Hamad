@@ -10,6 +10,6 @@
 
 
 
-<h2>🌱 I'm currently on an exciting learning journey, exploring the realms of Flutter and databases. As someone who's relatively new to coding, I'm eagerly soaking up knowledge and honing my skills in these areas.</h2>
+<h2 align="left">🌱 I'm currently on an exciting learning journey, exploring the realms of Flutter and databases. As someone who's relatively new to coding, I'm eagerly soaking up knowledge and honing my skills in these areas.</h2>
 
 🚀 Why Flutter? The idea of building beautiful, native mobile applications with a single codebase fascinated me. I'm thrilled to be diving deep into the Flutter framework, experimenting with UI designs, and crafting delightful user experiences.
